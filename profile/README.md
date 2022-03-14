@@ -1,8 +1,6 @@
 # Student Data
 
-Last updated at: 15 March 2022 01:52:25
-
-[![Student Report Cron](https://github.com/EAD-GCES/.github/actions/workflows/cron.yml/badge.svg)](https://github.com/EAD-GCES/.github/actions/workflows/cron.yml)
+Last updated at: 15 March 2022 02:20:05
 
  | Roll | Student Name | URL | Start | Last Update | Commits | Description | 
  | --- | --- | --- | --- | --- | --- | --- |
