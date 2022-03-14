@@ -8,6 +8,7 @@ from tracker.utils import get_local_timestamp
 from .repo import get_repo_by_full_name
 from .students import STUDENTS_LIST
 
+
 # Initialize the field header.
 field_header = {
     'roll': 'Roll',
@@ -64,7 +65,7 @@ def _write_to_csv():
 
 def get_md_string(include_updated_at=True,
                   include_unreported=True,
-                  include_action_badge=True):
+                  include_action_badge=False):
     ''' Returns a string of markdown formatted data '''
 
     md_string = ''
