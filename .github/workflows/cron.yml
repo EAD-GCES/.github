@@ -16,6 +16,7 @@ on:
       - master
   schedule:
     - cron: '5 * * * *' # Run every 5 minutes.
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
