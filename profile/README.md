@@ -1,6 +1,6 @@
 # Student Data
 
-Last updated at: 15 March 2022 15:38:36
+Last updated at: 16 March 2022 15:40:08
 
  | Roll | Student Name | URL | Start | Last Update | Commits | Description | 
  | --- | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Last updated at: 15 March 2022 15:38:36
  | 27 | Sabin Adhikari | [Link](https://github.com/EAD-GCES/SabinAdhikari-EAD) | 13 March 2022 16:26:31 | 13 March 2022 16:47:33 | 4 | None | 
  | 28 | Sachin Silwal | [Link](https://github.com/EAD-GCES/SachinSilwal-EAD) | 24 November 2021 17:04:20 | 10 January 2022 20:21:22 | 32 | None | 
  | 29 | Sagar Paudel | [Link](https://github.com/EAD-GCES/SagarPaudel-EAD) | 26 November 2021 06:37:44 | 20 January 2022 18:38:20 | 15 | None | 
- | 30 | Samir Poudel | [Link](https://github.com/EAD-GCES/SamirPoudel-EAD) | 10 March 2022 18:44:45 | 10 March 2022 19:10:54 | 1 | None | 
+ | 30 | Samir Poudel | [Link](https://github.com/EAD-GCES/SamirPoudel-EAD) | 10 March 2022 18:44:45 | 15 March 2022 21:40:29 | 4 | None | 
  | 31 | Sandesh Shrestha | [Link](https://github.com/EAD-GCES/SandeshShrestha-EAD) | 23 January 2022 15:24:20 | 23 January 2022 15:29:49 | 1 | None | 
  | 32 | Sapana Gurung | [Link](https://github.com/EAD-GCES/SapanaGurung-EAD) | 26 November 2021 06:31:06 | 15 March 2022 00:25:58 | 36 | None | 
  | 33 | Saraswati Kunwar | [Link](https://github.com/EAD-GCES/SaraswatiKunwar-EAD) | 27 November 2021 15:35:01 | 04 February 2022 12:16:43 | 22 | None | 
