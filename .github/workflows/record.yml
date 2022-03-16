@@ -1,4 +1,4 @@
-name: Student Report Cron - Pre
+name: Student Report Cron - Main
 
 # CRON time settings
 # ┌───────────── minute (0 - 59)
@@ -12,6 +12,11 @@ name: Student Report Cron - Pre
 # * * * * *
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "5 * * * *" # Run every 5 minutes.
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,32 +25,17 @@ jobs:
       GH_API_KEY: ${{ secrets.GH_API_KEY }}
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  
-          # Only a single commit is fetched by default, 
-          # for the ref/SHA that triggered the workflow. 
-          # Set fetch-depth: 0 to fetch all history for all branches and tags. 
-          # Refer here to learn which commit $GITHUB_SHA points to for different events.
-          # Helpful while switching branch
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
       - run: |
           pip install -r requirements.txt
           python3 main.py
-      - name: Move updated changes to /tmp
-        run: |
-          cp profile/README.md /tmp/README.md
-      - name: Reset Changes
-        run: |
-          git reset --hard
       - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          git checkout main
-          cp /tmp/README.md profile/README.md
           git add profile/README.md
           if [-z "$(git status --porcelain)"]; then
              echo "::set-output name=push::false"
@@ -59,6 +49,6 @@ jobs:
         if: steps.commit.outputs.push == 'true'
         uses: ad-m/github-push-action@master
         with:
-           github_token: ${{ secrets.GH_API_KEY }}
-           branch: main
-           force: true
+          github_token: ${{ secrets.GH_API_KEY }}
+          branch: master
+          force: true
