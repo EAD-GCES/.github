@@ -1,6 +1,6 @@
 # Student Data
 
-Last updated at: 16 March 2022 21:09:37
+Last updated at: 16 March 2022 21:15:23
 
  | Roll | Student Name | URL | Start | Last Update | Commits | Description | 
  | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ Last updated at: 16 March 2022 21:09:37
  | 11 | Bishwas Ojha | [Link](https://github.com/EAD-GCES/BishwasOjha-EAD) | 24 November 2021 09:28:51 | 01 February 2022 23:29:47 | 25 | This repo contains EAD materials. | 
  | 12 | Diwash Wagle | [Link](https://github.com/EAD-GCES/DiwashWagle-EAD) | 24 January 2022 11:55:31 | 24 January 2022 12:01:56 | 20 | None | 
  | 13 | Ena Gurung | [Link](https://github.com/EAD-GCES/EnaGurung-EAD) | 25 November 2021 23:06:59 | 21 January 2022 10:10:38 | 34 | None | 
- | 14 | Garima Thapa |  |  |  |  |  | 
+ | 14 | Garima Thapa | [Link](https://github.com/EAD-GCES/GarimaThapa-EAD) | 27 November 2021 18:55:05 | 15 March 2022 13:12:21 | 9 | Assignment And Practical | 
  | 16 | Karun Atreya | [Link](https://github.com/EAD-GCES/KarunAtreya-EAD) | 24 November 2021 20:26:42 | 18 January 2022 10:00:02 | 19 | EAD subject repo | 
  | 17 | Khom Bahadur Chhetri | [Link](https://github.com/EAD-GCES/KhomBahadurChhetri-EAD) | 24 November 2021 09:21:09 | 10 January 2022 22:03:17 | 6 | None | 
  | 18 | Kushal Laye | [Link](https://github.com/EAD-GCES/KushalLaye-EAD) | 24 November 2021 09:13:46 | 10 January 2022 16:59:57 | 20 | This repository contains lab works and assignments of Enterprise Application Development. | 
@@ -51,6 +51,5 @@ Last updated at: 16 March 2022 21:09:37
 
 ## Unreported Students
 
-* Garima Thapa
 * Sujan Tiwari
 
