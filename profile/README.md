@@ -1,6 +1,6 @@
 # Student Data
 
-Last updated at: 17 March 2022 08:24:51
+Last updated at: 17 March 2022 08:44:56
 
  | Roll | Student Name | URL | Start | Last Update | Commits | Description | 
  | --- | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Last updated at: 17 March 2022 08:24:51
  | 35 | Simanta Baral | [Link](https://github.com/EAD-GCES/SimantaBaral-EAD) | 23 January 2022 20:20:24 | 15 March 2022 12:39:11 | 5 | None | 
  | 36 | Subodh Poudel | [Link](https://github.com/EAD-GCES/SubodhPoudel-EAD) | 26 November 2021 08:05:45 | 20 January 2022 20:19:18 | 13 | None | 
  | 37 | Sujan Bhattarai | [Link](https://github.com/EAD-GCES/SujanBhattarai-EAD) | 19 February 2022 16:21:15 | 19 February 2022 16:26:17 | 1 | None | 
- | 38 | Sujan Tiwari |  |  |  |  |  | 
+ | 38 | Sujan Tiwari | [Link](https://github.com/EAD-GCES/SujanTiwari-EAD) | 30 November 2021 20:28:58 | 10 January 2022 21:19:48 | 3 | None | 
  | 39 | Suman Bhattarai | [Link](https://github.com/EAD-GCES/SumanBhattarai-EAD) | 23 January 2022 12:31:14 | 27 January 2022 16:28:09 | 13 | None | 
  | 40 | Suman Timilsina | [Link](https://github.com/EAD-GCES/SumanTimilsina-EAD) | 18 February 2022 13:14:25 | 18 February 2022 13:19:30 | 1 | None | 
  | 41 | Sumit Shrestha | [Link](https://github.com/EAD-GCES/SumitShrestha-EAD) | 30 November 2021 19:21:07 | 10 January 2022 21:38:28 | 17 | repo for EAD lab by Sumit Shrestha | 
@@ -48,8 +48,3 @@ Last updated at: 17 March 2022 08:24:51
  | 45 | Suraj Nepali | [Link](https://github.com/EAD-GCES/SurajNepali-EAD) | 24 November 2021 09:21:11 | 22 February 2022 17:29:10 | 6 | None | 
  | 46 | Sushant Dhungana | [Link](https://github.com/EAD-GCES/SushantDhungana-EAD) | 24 November 2021 08:46:35 | 15 March 2022 13:18:16 | 4 | Contains Lab Practicals and Assignments. | 
  | 47 | Sushil Baral | [Link](https://github.com/EAD-GCES/SushilBaral-EAD) | 16 March 2022 10:21:37 | 16 March 2022 14:20:03 | 2 | None | 
-
-## Unreported Students
-
-* Sujan Tiwari
-
